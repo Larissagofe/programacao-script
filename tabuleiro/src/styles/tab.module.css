@@ -1,0 +1,22 @@
+.preto{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.branco{
+    background-color: #f1f1f1;
+    height: 100px;
+    width: 100px;
+}
+
+.fundo{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.teste{
+    background-color: red;
+    border-radius: 50px;
+}
