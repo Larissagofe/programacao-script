@@ -5,9 +5,7 @@ export default function CompTab(){
     return(
         <div>
             <div className={style.fundo}>
-                <div className={style.preto}>
-                    <div className={style.teste}></div>
-                </div>
+                <div className={style.preto}></div>
                 <div className={style.branco}></div>
                 <div className={style.preto}></div>
                 <div className={style.branco}></div>
